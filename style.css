@@ -1,0 +1,98 @@
+body{ background-color: #14274e; ;
+      color: #14274e; 
+      font-size: 15px;
+      line-height: 1.6;
+      letter-spacing:1px;
+      font-family: courier;
+	}
+
+h1,h2 {
+font-family: courier;}
+
+
+
+h1 { color:#14274e;  
+	font-weight: 800;
+	font-size: 35px;
+	letter-spacing: 8px;
+	text-transform: uppercase;
+	margin: 10:auto;}
+
+h2 { color:#14274e;  
+	font-weight: lighter;
+	font-size: 30px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	}
+
+h3 { color:#394867;  
+	font-weight: lighter;
+	font-size: 20px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	}
+
+h4{color:#14274e;  
+	font-weight: lighter;
+	size: 25px;
+	letter-spacing: 2px;
+	text-transform: uppercase}
+
+a:hover { color: green;}
+
+
+
+
+
+( ma photo de profile)
+
+ #logo{size: 10px: 10px}
+ .img-circule {border-radius: 50%
+ }
+
+
+
+
+.banco { 
+		background: #f8f1f1;
+	    padding: 30px;
+	    text-align: center;
+	    margin: 50px;
+	    box-shadow: 0px 10px 30px 
+	    rgba(0,0,0.1);
+	    border-radius: 30px;} 
+
+.tout{width: 1000px;
+      margin: auto;}  
+
+
+
+#gogo{font-size: 900px;}
+
+.banco{width: 850px;
+	margin: 30px:auto;}
+
+.reseaux{list-style: none;
+padding-left: 0px
+margin-top:20px;}
+
+.reseaux li{display: inline; 
+             padding: 10px}
+.reseaux i {font-size: 50px;
+ color: #14274e}
+
+ .reseaux i:hover{color: green;
+                  font-size:60px;}
+
+.romeo  {font-size: 50px;
+ color: #14274e}
+
+
+@media (max-width: 200px)
+{.tout{width: 600px}}
+
+@media (max-width: 500px)
+{.tout{width: 400px}}
+
+
+
